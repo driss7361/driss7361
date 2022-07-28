@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @driss7361
+- 👋 Hi, I’m Driss
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any interesting projecting on JS,python or Java
